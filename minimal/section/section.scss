@@ -1,0 +1,92 @@
+section {
+    .wrapper-section {
+        text-align: center;
+        h2 {
+            top: 10px;
+            left: 273px;
+            font-family: sans-serif;
+            font-size: 23px;
+            font-weight: 400;
+            line-height: 36px;
+            letter-spacing: 0em;
+            text-align: center;
+            color:rgba(51, 51, 51, 1);
+            margin-top: 100px;
+            
+
+        }
+        ul{
+            display: flex;
+            li {
+                
+            list-style: none;
+                img {
+                    padding: 40px;
+                    background-color:rgba(245, 245, 245, 1);
+                    text-decoration: none;
+                }
+                .setH2 {
+                    width: 119px;
+                    height: 20px;
+                    top: 257px;
+                    left: 100px;
+                    font-family: sans-serif;
+                    font-size: 16px;
+                    font-weight: 400;
+                    line-height: 20px;
+                    letter-spacing: 0em;
+                    text-align: center;
+
+
+                    
+                }
+                p {
+                    width: 297px;
+                    height: 66px;
+                    top: 297px;
+                    left: 11px;
+                    font-family: sans-serif;
+                    font-size: 15px;
+                    font-weight: 400;
+                    line-height: 22px;
+                    letter-spacing: 0em;
+                    text-align: center;
+                }
+            }
+        }
+        .recent {
+            width: 100%;
+            background-color:rgba(245, 245, 245, 1);
+            padding-top: 100px;
+            padding-bottom: 100px;
+            h3 {
+                width: 230px;
+                height: 36px;
+                top: 10px;
+                left: 355px;
+                font-family: sans-serif;
+                font-size: 23px;
+                font-weight: 400;
+                line-height: 36px;
+                letter-spacing: 0em;
+                text-align: center;
+                color:rgba(51, 51, 51, 1);
+            }
+            ul {
+                display: flex;
+                flex: wrap;
+            
+
+
+            }
+
+        }
+    }
+}
+
+        
+        
+            
+                    
+
+                    

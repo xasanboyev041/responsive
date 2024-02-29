@@ -1,0 +1,11 @@
+@import url(../header/header.css);
+@import url(../main/main.css);
+@import url(../footer/footer.css);
+@import url(../section/section.css);
+
+.container {
+    width: 980px;
+    padding: 0 20px;
+    margin: 0 auto;
+    
+}

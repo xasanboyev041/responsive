@@ -1,0 +1,50 @@
+section .wrapper-section {
+  text-align: center;
+}
+section .wrapper-section h2 {
+  top: 10px;
+  left: 273px;
+  font-family: sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  line-height: 36px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: rgb(51, 51, 51);
+  margin-top: 100px;
+}
+section .wrapper-section ul {
+  display: flex;
+}
+section .wrapper-section ul li {
+  list-style: none;
+}
+section .wrapper-section ul li img {
+  padding: 40px;
+  background-color: rgb(245, 245, 245);
+  text-decoration: none;
+}
+section .wrapper-section ul li .setH2 {
+  width: 119px;
+  height: 20px;
+  top: 257px;
+  left: 100px;
+  font-family: sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+section .wrapper-section ul li p {
+  width: 297px;
+  height: 66px;
+  top: 297px;
+  left: 11px;
+  font-family: sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: center;
+}/*# sourceMappingURL=section.css.map */
